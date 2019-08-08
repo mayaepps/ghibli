@@ -1,2 +1,5 @@
-# ghibli
-An information portal for Studio Ghibli films
+# Studio Ghibli Imformation Portal
+
+A Google App Engine project that uses the Studio Ghibli API
+
+Made during CSSI 2019
