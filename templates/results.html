@@ -2,9 +2,11 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Document</title>
   </head>
   <body>
-    <p>please work</p>
+    {% for result in response %}
+      <div class="result">{{ result }}</div>
+    {% endfor %}
   </body>
 </html>
